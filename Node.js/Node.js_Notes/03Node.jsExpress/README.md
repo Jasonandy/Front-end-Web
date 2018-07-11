@@ -1,5 +1,5 @@
 ---
-typora-root-url: ./
+
 ---
 
 # Node.js - Express 
@@ -367,16 +367,17 @@ module.exports = app
 - 状态只能变成一种
 - promise本身并不是异步的 但是内部旺旺都是封装的一个异步的任务
 
-![promise容器概念](/media/promise容器概念.png)
+![promise容器概念](C:\Users\Jason\Documents\Front-end-Web\Node.js\Node.js_Notes\03Node.jsExpress\media\promise容器概念.png)
 
 > promise的链式调用
 
-![promise链式调用](/media/promise链式调用.png)
+![promise容器概念](C:\Users\Jason\Documents\Front-end-Web\Node.js\Node.js_Notes\03Node.jsExpress\media\promise容器概念.png)
 
 > 回调函数获取异步的操作结果
 
-![回调函数](/media/回调函数.png)
+![回调函数](C:\Users\Jason\Documents\Front-end-Web\Node.js\Node.js_Notes\03Node.jsExpress\media\回调函数.png)
 
 > promise api
 
-![promiseAPI代码图示](/media/promiseAPI代码图示.png)
+![promiseAPI代码图示](C:\Users\Jason\Documents\Front-end-Web\Node.js\Node.js_Notes\03Node.jsExpress\media\promiseAPI代码图示.png)
+
